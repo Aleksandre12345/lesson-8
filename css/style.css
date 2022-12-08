@@ -1,0 +1,26 @@
+.bg-image {
+	background-image: url('../images/lake.jpg');
+	height: 700px;
+	width: 100%;
+	background-repeat: no-repeat;	
+	display: flex;
+	justify-content: center;
+	align-items: center; 
+}
+.text-block {
+	background-color: yellow;
+}
+
+/*section2*/
+.container {
+	width: 1170px;
+	margin: 0 auto;
+}
+.image-icon {
+	width: 50px;
+}
+.block {
+	width: 370px;
+	height: 450px;
+	background-color: lightblue;
+}
